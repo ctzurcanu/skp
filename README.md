@@ -1,4 +1,0 @@
-skp
-===
-
-Sapiens Knowledge Project
